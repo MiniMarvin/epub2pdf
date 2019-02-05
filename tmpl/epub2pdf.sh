@@ -1,3 +1,3 @@
 #!/bin/bash
-java -jar epub2pdf.jar $@
+java -jar epub2pdf.jar "$@"
 
